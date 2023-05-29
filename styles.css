@@ -32,7 +32,13 @@ h1{
 	margin-bottom:20px;
 }
 
-
+.cnt{
+	width:100%;
+	display:flex;
+	flex-direction:column;
+	padding-left:50px
+	
+}
 .price-block{
 	width:90%;
 	height:30px;
